@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/LawsuitsAPI.Data.csproj": {}
+  },
+  "projects": {
+    "/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/LawsuitsAPI.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/LawsuitsAPI.Data.csproj",
+        "projectName": "LawsuitsAPI.Data",
+        "projectPath": "/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/LawsuitsAPI.Data.csproj",
+        "packagesPath": "/Users/yanelamantovani/.nuget/packages/",
+        "outputPath": "/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yanelamantovani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Model/LawsuitsAPI.Model.csproj": {
+                "projectPath": "/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Model/LawsuitsAPI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Model/LawsuitsAPI.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Model/LawsuitsAPI.Model.csproj",
+        "projectName": "LawsuitsAPI.Model",
+        "projectPath": "/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Model/LawsuitsAPI.Model.csproj",
+        "packagesPath": "/Users/yanelamantovani/.nuget/packages/",
+        "outputPath": "/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yanelamantovani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

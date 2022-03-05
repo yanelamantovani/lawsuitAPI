@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{AF031684-3E39-4BA7-9443-CD5B4C18D549}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LawsuitsAPI.Data/Repositories/LawsuitRepository.cs">
+    <Files>
+      <File FileName="LawsuitsAPI/Startup.cs" Line="33" Column="1" />
+      <File FileName="LawsuitsAPI.Model/Lawsuit.cs" Line="14" Column="1" />
+      <File FileName="LawsuitsAPI.Data/MySQLConfiguration.cs" Line="13" Column="1" />
+      <File FileName="LawsuitsAPI/appsettings.json" Line="9" Column="23" />
+      <File FileName="LawsuitsAPI.Data/Repositories/ILawsuitRepository.cs" Line="13" Column="18" />
+      <File FileName="LawsuitsAPI.Data/Repositories/LawsuitRepository.cs" Line="43" Column="1" />
+      <File FileName="LawsuitsAPI/Controllers/LawsuitController.cs" Line="34" Column="1" />
+      <File FileName="LawsuitsAPI/Program.cs" Line="28" Column="1" />
+      <File FileName="LawsuitsAPI/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LawsuitsAPI" expanded="True">
+            <Node name="LawsuitsAPI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="LawsuitsAPI.Data" expanded="True">
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="LawsuitsAPI.Model" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LawsuitsAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

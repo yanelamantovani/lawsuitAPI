@@ -1,0 +1,15 @@
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/obj/Debug/net5.0/LawsuitsAPI.Data.csproj.AssemblyReference.cache
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/obj/Debug/net5.0/LawsuitsAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/obj/Debug/net5.0/LawsuitsAPI.Data.AssemblyInfoInputs.cache
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/obj/Debug/net5.0/LawsuitsAPI.Data.AssemblyInfo.cs
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/obj/Debug/net5.0/LawsuitsAPI.Data.csproj.CoreCompileInputs.cache
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/bin/Debug/net5.0/LawsuitsAPI.Data.deps.json
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/bin/Debug/net5.0/LawsuitsAPI.Data.dll
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/bin/Debug/net5.0/LawsuitsAPI.Data.pdb
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/bin/Debug/net5.0/LawsuitsAPI.Model.dll
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/bin/Debug/net5.0/LawsuitsAPI.Model.pdb
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/obj/Debug/net5.0/LawsuitsAPI.Data.csproj.CopyComplete
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/obj/Debug/net5.0/LawsuitsAPI.Data.dll
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/obj/Debug/net5.0/refint/LawsuitsAPI.Data.dll
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/obj/Debug/net5.0/LawsuitsAPI.Data.pdb
+/Users/yanelamantovani/Documents/Cursos/Net/LawsuitsAPI/LawsuitsAPI.Data/obj/Debug/net5.0/ref/LawsuitsAPI.Data.dll
